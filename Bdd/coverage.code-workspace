@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../phpunit-exemple/coverage"
+		},
+		{
+			"path": "../../phpunit-exemple/src"
+		},
+		{
+			"path": "../../phpunit-exemple/tests"
+		},
+		{
+			"path": "../../phpunit-exemple/tools"
+		}
+	]
+}
